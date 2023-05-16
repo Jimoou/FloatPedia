@@ -8,12 +8,11 @@ import lombok.Setter;
 @Setter
 @Builder
 public class FloatResponse {
-    private String binaryValue1;
-    private String binaryToFloatValue1;
-    private String binaryValue2;
-    private String binaryToFloatValue2;
-    private String result;
-    private String originalResult;
-    private String computationalSpeed;
-    private String usageMemory;
+  private String binaryValue1;
+  private String binaryToFloatValue1;
+  private String binaryValue2;
+  private String binaryToFloatValue2;
+  private String result;
+  private String computationalSpeed;
+  private String usageMemory;
 }

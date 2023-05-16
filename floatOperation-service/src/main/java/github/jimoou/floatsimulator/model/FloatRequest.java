@@ -10,7 +10,6 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 public class FloatRequest {
-    private float value1;
-    private float value2;
-    private String result;
+  private float value1;
+  private float value2;
 }

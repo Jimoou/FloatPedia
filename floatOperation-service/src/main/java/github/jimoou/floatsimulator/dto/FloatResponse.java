@@ -13,6 +13,6 @@ public class FloatResponse {
   private String binaryValue2;
   private String binaryToFloatValue2;
   private String result;
-  private String computationalSpeed;
-  private String usageMemory;
+  private long computationalSpeed;
+  private long usageMemory;
 }
